@@ -23,5 +23,5 @@
 - 开机自启动
 
 ## 下载
-上架太麻烦了，直接这里下载吧 [mum-reader.apk](output/mum-reader.apk)     
-![url](output/url.png)
+上架太麻烦了，直接这里下载吧 [mum-reader.apk](https://github.com/billingsaas/MumReader/raw/master/output/mum-reader.apk)     
+![url](https://github.com/billingsaas/MumReader/raw/master/output/url.png)

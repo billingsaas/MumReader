@@ -21,3 +21,7 @@
 - 监听剪贴板
 - 朗读剪贴板内容
 - 开机自启动
+
+## 下载
+上架太麻烦了，直接这里下载吧 [mum-reader.apk](output/mum-reader.apk)     
+![url](output/url.png)
